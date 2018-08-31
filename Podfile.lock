@@ -1,0 +1,28 @@
+PODS:
+  - Charts (3.1.1):
+    - Charts/Core (= 3.1.1)
+  - Charts/Core (3.1.1)
+  - SQLite.swift (0.11.5):
+    - SQLite.swift/standard (= 0.11.5)
+  - SQLite.swift/standard (0.11.5)
+  - WMGaugeView (0.0.3)
+
+DEPENDENCIES:
+  - Charts
+  - SQLite.swift (~> 0.11.4)
+  - WMGaugeView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Charts
+    - SQLite.swift
+    - WMGaugeView
+
+SPEC CHECKSUMS:
+  Charts: 90a4d61da0f6e06684c591e3bcab11940fe61736
+  SQLite.swift: 6e5356850bb1791459f8c16d6ee9195b28714a2e
+  WMGaugeView: cde63af0f85eb701b2fb6f7ff525061e333b2b7d
+
+PODFILE CHECKSUM: 4ba7357f6f755a9c3b88af3ab8fb7d3409f2c408
+
+COCOAPODS: 1.5.3

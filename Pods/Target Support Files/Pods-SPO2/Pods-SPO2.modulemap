@@ -1,0 +1,6 @@
+framework module Pods_SPO2 {
+  umbrella header "Pods-SPO2-umbrella.h"
+
+  export *
+  module * { export * }
+}
